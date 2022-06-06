@@ -77,4 +77,4 @@
 
 ## Схема
 
-[BankSystem.drawio.png](https://github.com/samhakobian4/db-design/blob/main/BankSystem.drawio.png)
+[BankSystem.drawio.pdf](https://github.com/samhakobian4/db-design/blob/main/BankSystem.drawio.pdf)
