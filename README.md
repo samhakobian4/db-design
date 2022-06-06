@@ -74,3 +74,7 @@
 
 Пользователь может попольнить счет в Филиале. Пополнение счета связана с [Филиалом](#branch)
 и [Транзакцией](#transaction)
+
+## Схема
+
+[BankSystem.drawio.png](https://github.com/samhakobian4/db-design/blob/main/BankSystem.drawio.png)
